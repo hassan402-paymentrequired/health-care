@@ -1,0 +1,1 @@
+<input {{ $slot }} {{ $attributes->merge(['class' => 'bg-transparent outline-none text-white p-2 w-full h-full']) }}>
